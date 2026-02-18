@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fff0f0;
+        height: 100%;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b62c2c;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+
+.App {
+    text-align: center;
+        height: 100px;
+        background-color: aqua;
+
+}
+
+.header{
+    text-align: center;
+}
+
+.home-box{
+    display: grid;
+    margin: 20%;
+    text-align: center;
+    border: 1px solid ;
+    gap:10%;
+    padding: 10%;
+
+}
+
+.home-btn{
+    text-align: center;
+}
+
+.submit-box{
+    display: grid;
+    text-align: center;
+    margin: 20%;
+    border: 1px solid ;
+    gap:10%;
+    padding: 10%;
+}
